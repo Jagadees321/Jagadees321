@@ -2,7 +2,7 @@
 <h3 align="center">Backend Engineer · Java Spring Boot · Node.js · AWS · Kafka · Redis</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yeddula-jagadeesh-a8a00228a">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/yeddula-jagadeesh-9b2365324/">LinkedIn</a> •
   <a href="mailto:yeddulajagadeesh11@gmail.com">Email</a> •
   Bengaluru, India
 </p>
@@ -61,12 +61,7 @@ Spring Boot REST API for exam delivery, auto-scoring, and role-based analytics f
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jagadees321&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadees321&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
 
 ---
 
